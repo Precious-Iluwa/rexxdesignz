@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2021 (64-Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="0.404031in" height="0.195768in" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 48.56 23.53"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <font id="FontID0" horiz-adv-x="798" font-variant="normal" style="fill-rule:nonzero" font-weight="900">
+	<font-face 
+		font-family="Montserrat Black">
+		<font-face-src>
+			<font-face-name name="Montserrat Black"/>
+		</font-face-src>
+	</font-face>
+   <missing-glyph><path d="M0 0z"/></missing-glyph>
+   <glyph unicode="R" horiz-adv-x="725" d="M453.005 0l-83.9994 182.001 -87.004 0 0 -182.001 -232.001 0 0 701.006 339.002 0c95.3373,0 168.991,-21.8396 221.003,-65.5045 51.9983,-43.665 77.9904,-105.499 77.9904,-185.502 0,-50.6661 -9.49546,-94.8271 -28.5006,-132.497 -18.9909,-37.6701 -46.4994,-67.5028 -82.4972,-89.4983l137.996 -228.005 -261.99 0zm-171.003 357.993l107.001 0c25.326,0 44.8271,7.51134 58.5034,22.5057 13.6621,14.9943 20.4932,35.8277 20.4932,62.5 0,26.0062 -6.83107,46.1735 -20.4932,60.5017 -13.6763,14.3282 -33.1774,21.4994 -58.5034,21.4994l-107.001 0 0 -167.007z"/>
+  </font>
+  <style type="text/css">
+   <![CDATA[
+    @font-face { font-family:"Montserrat Black";font-variant:normal;font-weight:900;src:url("#FontID0") format(svg)}
+    .fil0 {fill:#FF5F1F}
+    .fnt0 {font-weight:900;font-size:33.39px;font-family:'Montserrat Black'}
+   ]]>
+  </style>
+ </defs>
+ <g id="PowerClip_x0020_Contents">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_2225232211600">
+   <text x="-1.67" y="23.41"  class="fil0 fnt0">R</text>
+   <g>
+    <path class="fil0" d="M27.38 23.41l7.99 0c7.81,0 13.19,-4.44 13.19,-11.69 0,-7.25 -5.38,-11.69 -13.19,-11.69l-11.52 0 0 19.84 3.53 0 0 3.53zm2.86 -17.83l7.15 2.34 7.15 2.34 -7.94 2.69 -3.26 7.37 -1.55 -7.37 -1.55 -7.37zm-2.15 -1.18l1.53 0 0 1.46 -1.53 0 0 -1.46z"/>
+    <rect class="fil0" x="23.54" y="20.32" width="3.37" height="3.21"/>
+   </g>
+  </g>
+ </g>
+</svg>
